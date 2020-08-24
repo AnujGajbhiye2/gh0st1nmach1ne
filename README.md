@@ -1,7 +1,6 @@
-### Hi there, I'm Anuj - aka [gh0st1nMach1ne][website] 👋
+### Hi there, I'm Anuj - aka [gh0st1nMach1ne] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anujgajbhiye.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AnujGajbhiye2)
+[![Twitter Follow](https://img.shields.io/badge/FOLLOW-%40%20ANUJGAJBHIYE2-blue?style=for-the-badge&logo=appveyor)](https://twitter.com/AnujGajbhiye2)
 
 ## I'm a Sr. Software Developer!
 
